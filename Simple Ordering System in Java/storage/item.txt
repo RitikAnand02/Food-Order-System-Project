@@ -1,2 +1,3 @@
 burger ,35.0,4
 Pasta,250.0,3
+maggie,200.0,2
